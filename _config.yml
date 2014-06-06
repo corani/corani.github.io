@@ -17,7 +17,7 @@ owner:
   facebook:
   github:         corani
   stackexchange:
-  linkedin:
+  linkedin:       corani
   instagram:
   flickr:
   tumblr:
@@ -28,7 +28,7 @@ owner:
 google_analytics:
 google_verify:
 # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
-bing_verify:
+bing_verify:      816EEA8A97707941A80646044F17BD72
 
 # Links to include in top navigation
 # For external links add external: true
