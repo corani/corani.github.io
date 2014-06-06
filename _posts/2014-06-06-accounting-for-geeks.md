@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Ledger CLI - Accounting for Geeks
-description: ""
+title: Accounting for Geeks
+description: "Ledger CLI - Accounting for Geeks"
 modified: 2014-06-06
 category: articles
 tags: [presentation accounting ledger cli]
