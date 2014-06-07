@@ -5,8 +5,8 @@ title: About Dani&euml;l Bos
 tags: []
 modified: 2014-06-06
 image:
-  feature: so-simple-sample-image-4.jpg
-  credit: Michael Rose
-  creditlink: http://mademistakes.com
+  feature:    no_nuisance.jpg
+  credit:     "Dani&euml;l Bos"
+  creditlink: "http://blog.loadingdata.nl/about/"
 ---
 
