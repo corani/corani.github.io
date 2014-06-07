@@ -6,6 +6,10 @@ modified: 2014-06-06
 category: articles
 tags: [presentation java programming]
 link: http://blog.loadingdata.nl/java-bootcamp/
+image:
+  feature:    coffee.jpg
+  credit:     Unknown
+  creditlink:
 comments: true
 share: true
 ---
