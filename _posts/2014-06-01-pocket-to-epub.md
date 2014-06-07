@@ -6,6 +6,10 @@ modified: 2014-06-06
 category: articles
 tags: [code python epub]
 link: https://github.com/corani/pocket_epub
+image:
+  feature:    books.jpg
+  credit:     "Unknown"
+
 comments: true
 share: true
 ---
