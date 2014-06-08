@@ -18,3 +18,6 @@ text is highlighted and visually linked with the quoted document to the left/rig
 your center document.
 
 A bit hard to explain, just give it a try!
+
+Update: I just came across a (very long) article on <a href="http://archive.wired.com/wired/archive/3.06/xanadu_pr.html" target="_BLANK">Wired</a>
+about the history of the project.
