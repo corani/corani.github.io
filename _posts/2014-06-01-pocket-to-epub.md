@@ -4,7 +4,7 @@ title: Pocket to ePub
 description: "A Python utility to create epubs from your Pocket reading list"
 modified: 2014-06-06
 category: articles
-tags: [code python epub]
+tags: [code, python, epub, project]
 link: https://github.com/corani/pocket_epub
 image:
   feature:    books.jpg

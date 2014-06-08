@@ -2,7 +2,7 @@
 layout: post
 title: "Possibly the most delayed software project"
 modified: 2014-06-07 20:31:04 +0800
-tags: [software xanadu web hyperlink]
+tags: [software, xanadu, web, hyperlink]
 image:
   feature:     web.jpg 
   credit:      Unknown

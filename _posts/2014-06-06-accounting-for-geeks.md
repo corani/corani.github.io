@@ -4,7 +4,7 @@ title: Accounting for Geeks
 description: "Ledger CLI - Accounting for Geeks"
 modified: 2014-06-06
 category: articles
-tags: [presentation accounting ledger cli finance gnucash]
+tags: [presentation, accounting, ledger, cli, finance, gnucash]
 link: http://blog.loadingdata.nl/accounting-for-geeks/
 image:
   feature:    accounting.jpg

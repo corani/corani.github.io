@@ -2,7 +2,7 @@
 layout: post
 title: "May day Barbeque"
 modified: 2014-06-07 12:51:36 +0800
-tags: [photo food bbq]
+tags: [photo, food, bbq]
 image:
   feature:    bbq.jpg
   credit:     "Dani&euml;l Bos"
