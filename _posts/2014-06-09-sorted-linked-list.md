@@ -4,11 +4,11 @@ title: "Sorted Linked List"
 modified: 2014-06-09 22:04:05 +0800
 tags: [programming,linked list,search,insert]
 image:
-  feature: linked-list.jpg 
+  feature: linked-list.jpg
   credit:  Unknown
-  creditlink: 
-comments: 
-share: 
+  creditlink:
+comments: true
+share:    true
 ---
 I spent some time today coming up with a simple algorithm for traversing of; and inserting in a sorted linked list. I'm posting this here in case
 I ever need it again.
