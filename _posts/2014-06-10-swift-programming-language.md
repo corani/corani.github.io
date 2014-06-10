@@ -17,15 +17,15 @@ documentation, however, I have a "few" comments.
 *Comment 1*
 Hmmm.. great idea Apple, redefining the modulo "%" operator as a remainder, which also works on floats.
 
-{% highlight c %}
+{% highlight java %}
 8 % 2.5 = 0.5
 {% endhighlight %}
 
 In any language I've ever seen the following holds:
 
-{% highlight c %}
+{% highlight java %}
   A / B = C
-  A % B = C
+  A % B = D
   (B * C) + D = A
 {% endhighlight %}
 
