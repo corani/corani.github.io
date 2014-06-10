@@ -44,7 +44,7 @@ public class Container {
         }
     }
 
-    public void find(int key) {
+    public Object find(int key) {
         Node node = head;
         while (node.next.key < key && node.next != head) {
             node = node.next;
