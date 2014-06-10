@@ -89,7 +89,7 @@ switch point {
 {% endhighlight %}
 
 *Comment 10*
-_Seriously?_
+*Seriously?*
 
 {% highlight java %}
 enum SomeEnum {
@@ -105,7 +105,7 @@ switch someEnum {
 {% endhighlight %}
 
 *Comment 11*
-*Seriously?*
+**Seriously?**
 
 {% highlight java %}
 Any thing = 1.1
