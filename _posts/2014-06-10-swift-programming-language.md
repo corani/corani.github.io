@@ -134,3 +134,10 @@ Exponents and decimals in hexadecimal literals? Sure!
 0xC.3p0
 {% endhighlight %}
 is clear for anyone... right? (It's 12.1875. Apparently)?
+
+*Update*
+Here's good discussion on <a href="http://stackoverflow.com/questions/24101718/swift-performance-sorting-arrays" target="_BLANK">Stackoverflow</a> about the performance of Swift.
+Basically, it's 100x slower than Java, and 400x slower than C++. Even PyPy turns out to be an order of magnitude faster...
+
+With -O1 Swift is about 1000x slower than good-old C, only with -Ofast is it getting comparable performance -- but in that case all the checks that make Swift safe are turned off.
+With -Ofast a simple loop takes 5 machine instructions, with -O3 it takes almost 100, with 26 subroutine calls...
