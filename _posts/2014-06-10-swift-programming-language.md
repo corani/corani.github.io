@@ -17,15 +17,15 @@ documentation, however, I have a "few" comments.
 *Comment 1*
 Hmmm.. great idea Apple, redefining the modulo "%" operator as a remainder, which also works on floats.
 
-{% highlight c %}
+{% highlight java %}
 8 % 2.5 = 0.5
 {% endhighlight %}
 
 In any language I've ever seen the following holds:
 
-{% highlight c %}
+{% highlight java %}
   A / B = C
-  A % B = C
+  A % B = D
   (B * C) + D = A
 {% endhighlight %}
 
@@ -63,7 +63,7 @@ They're certainly not followers of the "less is more" principle!
 *Comment 8*
 They're mixing up closures, function references and lambda's... And many, many ways to write the same code. From the document:
 
-{% highlight c %}
+{% highlight java %}
 func reverse(s1: String, s2: String) -> Bool {
     return s1 > s2
 }
@@ -81,7 +81,7 @@ sort(names) { $0 > $1 }
 *Comment 9*
 Seriously?
 
-{% highlight c %}
+{% highlight java %}
 switch point {
     case let (x, y) where x == y:
         // ...
@@ -120,7 +120,7 @@ They do Automatic Reference Counting, but no proper garbage collection. I.e. isl
 using weak references.
 
 An island-of-refence is:
-{% highlight c %}
+{% highlight java %}
 A -> B
 B -> A
 {% endhighlight %}
@@ -130,7 +130,7 @@ collection...
 *Comment 13*
 Exponents and decimals in hexadecimal literals? Sure!
 
-{% highlight c %}
+{% highlight java %}
 0xC.3p0
 {% endhighlight %}
 is clear for anyone... right? (It's 12.1875. Apparently)?
