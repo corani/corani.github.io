@@ -54,4 +54,14 @@
   })();
 </script>
 {% endif %}
-{% if page.comments %}{% include disqus_comments.html %}{% endif %}
+{% if page.comments %}
+{% include disqus_comments.html %}
+<!-- Asynchronous Google Plus Comments -->
+<script>
+	(function() {
+	  var gp = document.createElement('script'); gp.type = 'text/javascript'; gp.async = true;
+	  gp.source = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'apis.google.com/js/plusone.js';
+	  var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(gp, s);
+	})();
+</script>
+{% endif %}
