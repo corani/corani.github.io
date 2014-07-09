@@ -42,6 +42,9 @@
       <div class="entry-content">
         {{ content }}
         {% if site.disqus_shortname and page.comments %}<div id="disqus_thread"></div><!-- /#disqus_thread -->{% endif %}
+		{% if page.comments %}
+		<g:comments href="{{ canonical }}" width="640" first_party_property="BLOGGER" view_type="FILTERED_POSTMOD"></g:comments>
+		{% endif %}
       </div><!-- /.entry-content -->
     </div><!-- /.entry-wrapper -->
     <nav class="pagination" role="navigation">
