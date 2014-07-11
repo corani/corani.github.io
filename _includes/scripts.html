@@ -55,7 +55,9 @@
 </script>
 {% endif %}
 {% if page.comments %}
+{% if site.disqus_shortname %}
 {% include disqus_comments.html %}
+{% endif %}
 <!-- Asynchronous Google Plus Comments -->
 <script>
 	(function() {
