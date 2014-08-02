@@ -25,12 +25,12 @@ Enum.map(1..100, fn
 end)
 {% endhighlight %}
 
-It maps over the range of numbers from 1 to 100, and invoked a lambda function for each number, then collects the results in a list. The lambda has
-four forms, the first three guarded with a "remainder" expression, the last one as a catch-all.
+It maps over the range of numbers from 1 to 100, and invokes a lambda function for each number, then collects the results in a list. The lambda has
+four forms, the first three guarded with a "remainder" expression, the last one a catch-all that simply returns the number.
 
 Much like languages such as Haskell and Erlang (on which this is based), Elixir works with pattern matching. This means each function can have
-multiple implementation, and the compiler/runtime will pick the right one based on the pattern of the invocation. For example: If "n" is 15, the first
-implementation will be picked, since the remainder of 15 over 15 is 0. This implementation simply returns "Fizzbuzz".
+multiple implementations (forms), and the compiler/runtime will pick the right one based on the pattern of the invocation. For example: If "n" is
+15, the first implementation will be picked, since the remainder of 15 over 15 is 0. This implementation simply returns "Fizzbuzz".
 
 You can do the same with named functions, as you can see in this example that will (recursively) iterate over a list:
 
