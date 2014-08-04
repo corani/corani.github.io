@@ -30,6 +30,7 @@ google_analytics: UA-17085440-1
 google_verify:    YjszohZgQ0hDDombRkFFYh1bbdyp0nQ2EkQydxYEOEs
 # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
 bing_verify:      816EEA8A97707941A80646044F17BD72
+flattr_user: corani
 
 # Links to include in top navigation
 # For external links add external: true
