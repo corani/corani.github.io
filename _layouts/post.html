@@ -38,6 +38,9 @@
         <span class="social-share-googleplus">
             <a href="https://plus.google.com/share?url={{ site.url }}{{ page.url }}" title="Share on Google Plus" itemprop="GooglePlus"><i class="icon-google-plus-sign"></i> +1</a></span>
             <!-- /.social-share -->{% endif %}
+	{% if page.flattr_user %}
+	<script id='fbs3n6m'>(function(i){var f,s=document.getElementById(i);f=document.createElement('iframe');f.src='//api.flattr.com/button/view/?uid={{ site.flattr_user }}&url='+encodeURIComponent(document.URL);f.title='Flattr';f.height=62;f.width=55;f.style.borderWidth=0;s.parentNode.insertBefore(f,s);})('fbs3n6m');</script>
+	{% endif %}
       </footer>
       <div class="entry-content">
         {{ content }}
