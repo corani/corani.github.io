@@ -3,11 +3,12 @@ layout: post
 title: "Fizzbuzz in Elixir"
 modified: 2014-08-02 09:24:03 +0800
 tags: [fizzbuzz, programming, elixir]
+description: "Over the last week, I've started learning the exciting new Elixir language. Last night I was thinking about what Fizzbuzz would look like in Elixir, and couldn't fall asleep until I got it out of my head, so here it is."
 image:
   feature: elixir.jpg
   credit:  David Monniaux
   creditlink: http://commons.wikimedia.org/wiki/User:David.Monniaux
-comments: true 
+comments: true
 share:    true
 ---
 Over the last week, I've started learning the exciting new <a href="http://elixir-lang.org/getting_started/1.html" target="_BLANK">Elixir language</a>.
