@@ -3,7 +3,7 @@ layout: post
 title: "Oberon report"
 modified: 2014-08-14 13:38:03 +0800
 tags: [programming, oberon, compiler]
-description: "I came across a cool website today that provides programming challenges in several languages. This is a great resource for preparing for a technical interview. "
+description: "Some of you may know I was working on implementing an Oberon-2 compiler from scratch in Python. While I had a large part of the front-end (lexing, parsing, symbol-table, AST, analyzer, etc) working for most of the language, the back-end turned out to be ... challenging."
 image:
   feature: oberon.png
   credit:  Dani&euml;l Bos
