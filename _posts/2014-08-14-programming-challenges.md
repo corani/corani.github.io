@@ -33,9 +33,13 @@ I'm splitting on the regex for one-or-more whitespace, this takes care of multip
 leading/trailing whitespace, which would result in empty matches, I first trim the input string.
 
 Now there could be three possibilities:
-1. The input is empty, return an empty string directly.
-2. The input contains only one part, return that part.
-3. The input contains multiple parts, reverse the order, making sure we don't end with a trailing space.
+
+&#x2460; The input is empty, return an empty string directly.
+
+&#x2461; The input contains only one part, return that part.
+
+&#x2462; The input contains multiple parts, reverse the order, making sure we don't end with a trailing space.
+
 
 Obviously this is not the fastest or most memory efficient way to solve the problem, but optimizations should only be done when they are needed. Readable
 code is usually more important than efficient code.
