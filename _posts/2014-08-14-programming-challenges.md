@@ -5,7 +5,7 @@ modified: 2014-08-14 13:08:03 +0800
 tags: [programming, java]
 description: "I came across a cool website today that provides programming challenges in several languages. This is a great resource for preparing for a technical interview. "
 image:
-  feature: reverse-sentence.jpg
+  feature: reverse-sentence.png
   credit:  Dani&euml;l Bos
   creditlink: http://blog.loadingdata.nl/daniel-bos/
 comments: true
