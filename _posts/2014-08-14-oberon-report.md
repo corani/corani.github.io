@@ -29,7 +29,7 @@ had a great IDE (those were still the DOS days), blazingly fast compilation and 
 lost from the C-like family of languages.
 
 So when I began thinking about writing my own compiler, Pascal was a natural choice. Pascal, however, had its idiosyncrasies. For example, the semicolon was
-a statement *separater*, not a statement *terminator". This ment that the last statement in a block *couldn't* have a semicolon. And, although Borland added
+a statement *separater*, not a statement *terminator*. This ment that the last statement in a block *couldn't* have a semicolon. And, although Borland added
 first Units and later Objects, it was purely procedural, with no separate compilation units.
 
 First Module-2 and subsequently Oberon-2 fixed this, while at the same time making the language much more regular. In fact, the entire language syntax can be
