@@ -3,7 +3,7 @@ layout: post
 title: "Oberon lexer"
 modified: 2014-08-15 14:41:14 +0800
 tags: [programming, oberon, compiler, lexer, c++]
-description: "Some of you may know I was working on implementing an Oberon-2 compiler from scratch in Python. While I had a large part of the front-end (lexing, parsing, symbol-table, AST, analyzer, etc) working for most of the language, the back-end turned out to be ... challenging."
+description: "Since my previous post turned into an introduction to compiler theory, this report on writing the Lexer may be pretty short. But since I'd already created the header image, here we go anyway :-)"
 image:
   feature: lexer.png
   credit:  Dani&euml;l Bos
