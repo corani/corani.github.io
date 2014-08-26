@@ -3,7 +3,7 @@ layout: post
 title: "Oberon Anagrams"
 modified: 2014-08-26 16:35:53 +0800
 tags: [programming, oberon, anagram, puzzler]
-description: ""
+description: "To get a feel of what programming in Oberon-2 is like, I installed the Oxford Oberon-2 compiler and wrote a simple Anagram application."
 image:
   feature: anagrams.jpg
   credit:  Unknown
