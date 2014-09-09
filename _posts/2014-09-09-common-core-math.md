@@ -12,7 +12,8 @@ comments: true
 share:    true
 ---
 The video below has been doing the round, showing how ludicrous and overly complicated the Common Core Mathematics are. Go ahead and have a look at it before reading on, it's only 80 seconds.
-(For those in China, I put up a mirror on Youku)
+(For those in China, I put up a <a href="http://v.youku.com/v_show/id_XNzc3NzIzMjky.html" target="_BLANK">mirror on Youku</a>)
+
 <iframe width="640" height="360" src="//www.youtube.com/embed/g2QGiGqz-xs" frameborder="0" allowfullscreen></iframe>
 
 When I watched it, and especially after hearing others comment on it, I was surprised at how much sense it makes. Most people, however, are baffled by the terminology used and the strange
@@ -44,7 +45,9 @@ replace the operation for a new leaf "15". This is how we reach our solution.
 
 Without having looked at how to solve bigger numbers using the Common Core method, I came up with the following way that follows the same principle (I'm not going to draw it):
 
+{% raw %}
 308 + 457 = 3|0|8 + 4|5|7 = 3|0|(8+7) + 4|5|0 = 3|0|(8+(2+5)) + 4|5|0 = 3|0|((8+2)+5) + 4|5|0 = 3|1|5 + 4|5|0 = 3|(1+5)|5 + 4|0|0 = 3|6|5 + 4|0|0 = (3+4)|6|5 + 0|0|0 = 7|6|5 + 0|0|0 = 765
+{% endraw %}
 
 Basically we first split each number into decimal boxes, then solve each box following the split => rotate => merge algorithm outlined above.
 
