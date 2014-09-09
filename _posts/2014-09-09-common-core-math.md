@@ -35,6 +35,7 @@ Step one is to "split" the leaf "6" by replacing it with a new &oplus; operation
 choose "1" and "5".
 
 Step two is to "rotate" the tree around the our newly created &oplus; operation. This will move the operation up, making it the "root" of the tree. We do this using four sub-steps:
+
 1.  Disconnect the "right" branch of the topmost operation.
 2.  Move the leaf from the "left" branch of the new operation to the "right" branch of the topmost one.
 3.  Connect the "left" branch of the new operation to the topmost one.
@@ -62,6 +63,7 @@ Without having looked at how to solve bigger numbers using the Common Core metho
 Basically we first split each number into decimal boxes, then solve each box following the split => rotate => merge algorithm outlined above.
 
 I think this clearly shows that the Common Core Mathematics were designed by a programmer, not by an educator, and I'm dubious about their intentions. I see three possible reasons:
+
 1.  Someone thinks that programmers are better mathematicians than, well, a few millennia of mathematical practice;
 2.  Someone is trying to train code monkeys;
 3.  Someone is under the misguided impression that *anyone* can learn to become a software engineer.
