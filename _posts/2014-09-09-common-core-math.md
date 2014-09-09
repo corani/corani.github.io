@@ -46,7 +46,7 @@ replace the operation for a new leaf "15". This is how we reach our solution.
 Without having looked at how to solve bigger numbers using the Common Core method, I came up with the following way that follows the same principle (I'm not going to draw it):
 
 {% raw %}
-308 + 457 = 3|0|8 + 4|5|7 = 3|0|(8+7) + 4|5|0 = 3|0|(8+(2+5)) + 4|5|0 = 3|0|((8+2)+5) + 4|5|0 = 3|1|5 + 4|5|0 = 3|(1+5)|5 + 4|0|0 = 3|6|5 + 4|0|0 = (3+4)|6|5 + 0|0|0 = 7|6|5 + 0|0|0 = 765
+308 + 457 = 3&#x7c;0&#x7c;8 + 4&#x7c;5&#x7c;7 = 3&#x7c;0&#x7c;(8+7) + 4&#x7c;5&#x7c;0 = 3&#x7c;0&#x7c;(8+(2+5)) + 4&#x7c;5&#x7c;0 = 3&#x7c;0&#x7c;((8+2)+5) + 4&#x7c;5&#x7c;0 = 3&#x7c;1&#x7c;5 + 4&#x7c;5&#x7c;0 = 3&#x7c;(1+5)&#x7c;5 + 4&#x7c;0&#x7c;0 = 3&#x7c;6&#x7c;5 + 4&#x7c;0&#x7c;0 = (3+4)&#x7c;6&#x7c;5 + 0&#x7c;0&#x7c;0 = 7&#x7c;6&#x7c;5 + 0&#x7c;0&#x7c;0 = 765
 {% endraw %}
 
 Basically we first split each number into decimal boxes, then solve each box following the split => rotate => merge algorithm outlined above.
