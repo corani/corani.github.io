@@ -31,33 +31,33 @@ are shown as "leafs" of the (upside-down) tree.
 
 <img src="/images/split-rotate-merge.png">
 
-Step one is to "split" the leaf "6" by replacing it with a new &oplus; operation which result equals to "6". There are many such operations, in this example we are working towards "10", so we
+**Step one** is to "split" the leaf "6" by replacing it with a new &oplus; operation which result equals to "6". There are many such operations, in this example we are working towards "10", so we
 choose "1" and "5".
 
-Step two is to "rotate" the tree around the our newly created &oplus; operation. This will move the operation up, making it the "root" of the tree. We do this using four sub-steps:
+**Step two** is to "rotate" the tree around the our newly created &oplus; operation. This will move the operation up, making it the "root" of the tree. We do this using four sub-steps:
 
 1.  Disconnect the "right" branch of the topmost operation.
 2.  Move the leaf from the "left" branch of the new operation to the "right" branch of the topmost one.
 3.  Connect the "left" branch of the new operation to the topmost one.
 4.  "Pull" the new operation up, above the previously topmost one.
 
-Step three (and four) "merge" branches, by solving them. We first solve "9 + 1" and replace the operation for a new leaf containing the result: "10". We then solve "10 + 5" and again
+**Step three** "merge" branches, by solving them. We first solve "9 + 1" and replace the operation for a new leaf containing the result: "10". We then solve "10 + 5" and again
 replace the operation for a new leaf "15". This is how we reach our solution.
 
 Without having looked at how to solve bigger numbers using the Common Core method, I came up with the following way that follows the same principle (I'm not going to draw it):
 
 {% raw %}
-308 + 457 =
-3&#x7c;0&#x7c;8 + 4&#x7c;5&#x7c;7 =
-3&#x7c;0&#x7c;(8+7) + 4&#x7c;5&#x7c;0 =
-3&#x7c;0&#x7c;(8+(2+5)) + 4&#x7c;5&#x7c;0 =
-3&#x7c;0&#x7c;((8+2)+5) + 4&#x7c;5&#x7c;0 =
-3&#x7c;1&#x7c;5 + 4&#x7c;5&#x7c;0 =
-3&#x7c;(1+5)&#x7c;5 + 4&#x7c;0&#x7c;0 =
-3&#x7c;6&#x7c;5 + 4&#x7c;0&#x7c;0 =
-(3+4)&#x7c;6&#x7c;5 + 0&#x7c;0&#x7c;0 =
-7&#x7c;6&#x7c;5 + 0&#x7c;0&#x7c;0 =
-765
+    308 + 457 =
+    3&#x7c;0&#x7c;8 + 4&#x7c;5&#x7c;7 =
+    3&#x7c;0&#x7c;(8+7) + 4&#x7c;5&#x7c;0 =
+    3&#x7c;0&#x7c;(8+(2+5)) + 4&#x7c;5&#x7c;0 =
+    3&#x7c;0&#x7c;((8+2)+5) + 4&#x7c;5&#x7c;0 =
+    3&#x7c;1&#x7c;5 + 4&#x7c;5&#x7c;0 =
+    3&#x7c;(1+5)&#x7c;5 + 4&#x7c;0&#x7c;0 =
+    3&#x7c;6&#x7c;5 + 4&#x7c;0&#x7c;0 =
+    (3+4)&#x7c;6&#x7c;5 + 0&#x7c;0&#x7c;0 =
+    7&#x7c;6&#x7c;5 + 0&#x7c;0&#x7c;0 =
+    765
 {% endraw %}
 
 Basically we first split each number into decimal boxes, then solve each box following the split => rotate => merge algorithm outlined above.
