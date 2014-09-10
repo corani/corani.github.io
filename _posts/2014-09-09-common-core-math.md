@@ -69,3 +69,7 @@ I think this clearly shows that the Common Core Mathematics were designed by a p
 3.  Someone is under the misguided impression that *anyone* can learn to become a software engineer.
 
 I'm not sure which of these is worse...
+
+**Update** I decided to make a drawing of solving for bigger numbers, using a slightly different algorithm that may be more regular:
+
+<img src="/images/split-rotate-merge-more.png">
