@@ -11,7 +11,7 @@ image:
 comments: true
 share:    true
 ---
-The video below has been doing the round, showing how ludicrous and overly complicated the Common Core Mathematics are. Go ahead and have a look at it before reading on, it's only 80 seconds.
+The video below has been doing the rounds, showing how ludicrous and overly complicated the Common Core Mathematics are. Go ahead and have a look at it before reading on, it's only 80 seconds.
 (For those in China, I put up a <a href="http://v.youku.com/v_show/id_XNzc3NzIzMjky.html" target="_BLANK">mirror on Youku</a>)
 
 <iframe width="640" height="360" src="//www.youtube.com/embed/g2QGiGqz-xs" frameborder="0" allowfullscreen></iframe>
