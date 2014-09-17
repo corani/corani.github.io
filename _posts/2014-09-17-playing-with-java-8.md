@@ -31,16 +31,13 @@ These may sound like trivial changes, but it allowed me to cut the code down fro
 {% highlight java %}
 // event-loop:
 while (running) {
-    while (running && event == null) {
-        synchronized(queue) {
-            event = queue.poll();
-            if (event == null) {
-                queue.wait();
-            }
+    synchronized(queue) {
+        event = queue.poll();
+        if (event == null) {
+            queue.wait();
+        } else {
+            dispatch(event);
         }
-    }
-    if (event != null) {
-        dispatch(event);
     }
 }
 
