@@ -3,7 +3,7 @@ layout: post
 title: "Playing with Java 8"
 modified: 2014-09-17 13:38:53 +0800
 tags: [programming,java,functional]
-description: "I've been playing some more with some of the Java 8 features in my toy message-bus. While the features may seem "just syntax sugar" on the surface, I think it's a real game-changer for Java."
+description: "I've been playing some more with some of the Java 8 features in my toy message-bus. While the features may seem 'just syntax sugar' on the surface, I think it's a real game-changer for Java."
 image:
   feature: coffee.jpg
   credit:  Unknown
