@@ -26,7 +26,9 @@ I refactored it in three steps:
  2. Move the wait into an iterator, so the iterator will return events for as long as the event queue is running.
  3. Move the loop into the event queue, and supply a lambda with what to do with each event. This also allowed me to make the iterator private to the event queue, improving the encapsulation.
 
-These may sound like trivial changes, but it allowed me to cut the code down from something like:
+These may sound like trivial changes, but it allowed me to cut the code down from something like (synchronization around wait/notify elided):
+
+**Original**
 
 {% highlight java %}
 // event-loop:
@@ -34,7 +36,7 @@ while (running) {
     synchronized(queue) {
         event = queue.poll();
         if (event == null) {
-            queue.wait();
+            wait();
         } else {
             dispatch(event);
         }
@@ -44,11 +46,47 @@ while (running) {
 // publish:
 synchronized(queue) {
     queue.add(event);
-    queue.notify();
+    notify();
 }
 {% endhighlight %}
 
-to (all synchronization is internal to the queue):
+**Step 1**
+
+{% highlight java %}
+// event-loop:
+while (running) {
+    synchronized(queue) {
+        queue.poll()
+            .ifPresent(event -> dispatch(event))
+            .orElse(() -> wait());
+    }
+}
+
+// publish:
+synchronized(queue) {
+    queue.add(event);
+    notify();
+}
+{% endhighlight %}
+
+**Step 2**
+
+{% highlight java %}
+// event-loop:
+queue.forEach(optional ->
+    optional
+        .ifPresent(event -> dispatch(event)
+        .orElse(() -> wait())
+);
+
+// publish:
+synchronized(queue) {
+    queue.add(event);
+    notify();
+}
+{% endhighlight %}
+
+**Step 3**
 
 {% highlight java %}
 // event-loop:
