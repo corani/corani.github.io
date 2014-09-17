@@ -24,7 +24,8 @@ I refactored it in three steps:
 
  1. Use Optional instead of returning null. This allows you to simply chain an "ifPresent" and "orElse" lambda function.
  2. Move the wait into an iterator, so the iterator will return events for as long as the event queue is running.
- 3. Move the loop into the event queue, and supply a lambda with what to do with each event. This also allowed me to make the iterator private to the event queue, improving the encapsulation.
+ 3. Move the loop into the event queue, and supply a lambda with what to do with each event. This also allowed me to make the iterator private to the event queue and move the
+    synchronization into the event queue, improving the encapsulation.
 
 These may sound like trivial changes, but it allowed me to cut the code down from something like (synchronization around wait/notify elided):
 
