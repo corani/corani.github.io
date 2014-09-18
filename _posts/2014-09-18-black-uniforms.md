@@ -28,6 +28,9 @@ a handful of American "heroes" and arrested for hindering an investigation. ﻿(
 
 <iframe width="640" height="360" src="//www.youtube.com/embed/mORTy3nGgOc" frameborder="0" allowfullscreen></iframe>
 
+When the passenger, who fully cooperated from the start, is released, he politely asks for a lift home. The answer of
+those supposed to protect and *serve*? **Walk**
+
 **Whatever happened to the police-blue?**
 <a href="http://www.policeone.com/police-products/apparel/undergear/articles/99417-The-psychological-influence-of-the-police-uniform/" target="_BLANK">Here's one answer</a>:
 
@@ -35,3 +38,6 @@ a handful of American "heroes" and arrested for hindering an investigation. ﻿(
 > dark colors are consistently perceived as strong but evil. On psychological inventories, test subjects rate lighter
 > colors as more pleasant and less dominant. Dark colors on the other hand elicit emotions of anger, hostility, dominance,
 > and aggression.
+
+In other words, it's all about intimidation. And apparently wearing black not only *looks* more intimidating, it also
+makes the person wearing it actually *become* more aggressive. Now where in history did we see this pattern before...?
