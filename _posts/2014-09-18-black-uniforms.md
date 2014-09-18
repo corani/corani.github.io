@@ -47,7 +47,7 @@ didn't shut up like the slave you consider him to be.
 
 ## Whatever happened to the police-blue?
 
-{{ "blue-uniforms.jpg" | fullBleedImage "Blue Uniforms" }}
+{% include full-bleed-image.html image="blue-uniforms.jpg" alt="Blue Uniforms" %}
 
 <a href="http://www.policeone.com/police-products/apparel/undergear/articles/99417-The-psychological-influence-of-the-police-uniform/" target="_BLANK">Here's one answer</a>:
 
