@@ -32,7 +32,8 @@ I hope they're real proud of themselves, with their black uniforms...
 When the passenger, who fully cooperated from the start, is released, he politely asks for a lift home. The answer of
 those supposed to protect and *serve*? **Walk**
 
-**The problem:**
+##The problem:
+
 There are absolutely no consequences for the officers involved. This case could very well lead to a lawsuit, but even
 then, the damages will be paid by the public, while the officers go their merry way. They need to be held *personally*
 responsible.
@@ -44,11 +45,11 @@ You don't need an ID. You don't need intimidation of an innocent man. And you *c
 buddies and have the man stopped *again* and arrested on some bogus charges, just because he stood in his right and
 didn't shut up like the slave you consider him to be.
 
+## Whatever happened to the police-blue?
 <div>
 <img src="/images/blue-uniforms.jpg" alt="Blue Uniforms" style="position:absolute;left:0;width:100%" onload="(function(img) {img.parentNode.setAttribute('style', 'height:' + img.height + 'px');})(this)">
 </div>
 
-**Whatever happened to the police-blue?**
 <a href="http://www.policeone.com/police-products/apparel/undergear/articles/99417-The-psychological-influence-of-the-police-uniform/" target="_BLANK">Here's one answer</a>:
 
 > Across all cultures that have been studied, light colors are consistently associated with goodness and weakness, while
