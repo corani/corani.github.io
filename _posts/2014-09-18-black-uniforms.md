@@ -5,9 +5,9 @@ modified: 2014-09-18 13:39:53 +0800
 tags: [politics,police,history]
 description: "Across all cultures that have been studied, light colors are consistently associated with goodness and weakness, while dark colors are consistently perceived as strong but evil. On psychological inventories, test subjects rate lighter colors as more pleasant and less dominant. Dark colors on the other hand elicit emotions of anger, hostility, dominance, and aggression."
 image:
-  feature: blue-uniforms.jpg
-  credit:  Luke X. Martin
-  creditlink: http://flickr.com/people/27326713@N02
+  feature: black-uniforms.jpg
+  credit:  Unknown
+  creditlink: 
 comments: true
 share:    true
 ---
@@ -45,7 +45,7 @@ buddies and have the man stopped *again* and arrested on some bogus charges, jus
 didn't shut up like the slave you consider him to be.
 
 <div>
-<img src="/images/black-uniforms.jpg" alt="Black Uniforms" style="position:absolute;left:0;width:100%" onload="(function(img) {img.parentNode.setAttribute('style', 'height:' + img.height + 'px');})(this)">
+<img src="/images/blue-uniforms.jpg" alt="Blue Uniforms" style="position:absolute;left:0;width:100%" onload="(function(img) {img.parentNode.setAttribute('style', 'height:' + img.height + 'px');})(this)">
 </div>
 
 **Whatever happened to the police-blue?**
