@@ -44,6 +44,10 @@ You don't need an ID. You don't need intimidation of an innocent man. And you *c
 buddies and have the man stopped *again* and arrested on some bogus charges, just because he stood in his right and
 didn't shut up like the slave you consider him to be.
 
+<div>
+<img src="//images/black-uniforms.jpg" alt="Black Uniforms" style="position:absolute;left:0;width:100%" onload="(function(this) {this.parent.setAttribute('style', 'height:' + this.height + 'px');})(this);">
+</div>
+
 **Whatever happened to the police-blue?**
 <a href="http://www.policeone.com/police-products/apparel/undergear/articles/99417-The-psychological-influence-of-the-police-uniform/" target="_BLANK">Here's one answer</a>:
 
