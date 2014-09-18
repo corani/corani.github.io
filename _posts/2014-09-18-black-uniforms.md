@@ -45,7 +45,7 @@ buddies and have the man stopped *again* and arrested on some bogus charges, jus
 didn't shut up like the slave you consider him to be.
 
 <div>
-<img src="//images/black-uniforms.jpg" alt="Black Uniforms" style="position:absolute;left:0;width:100%" onload="(function(this) {this.parent.setAttribute('style', 'height:' + this.height + 'px');})(this);">
+<img src="/images/black-uniforms.jpg" alt="Black Uniforms" style="position:absolute;left:0;width:100%" onload="(function(img) {img.parentNode.setAttribute('style', 'height:' + img.height + 'px');})(this)">
 </div>
 
 **Whatever happened to the police-blue?**
