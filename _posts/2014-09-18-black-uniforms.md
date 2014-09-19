@@ -47,7 +47,7 @@ didn't shut up like the slave you consider him to be.
 
 ## Whatever happened to the police-blue?
 
-{% include full-bleed-image.html image="blue-uniforms.jpg" alt="Blue Uniforms" %}
+{% include full-bleed-image.html image="blue-uniforms.jpg" alt="Blue Uniforms" credit="Luke X. Martin" link="http://flickr.com/people/27326713@N02" %}
 
 <a href="http://www.policeone.com/police-products/apparel/undergear/articles/99417-The-psychological-influence-of-the-police-uniform/" target="_BLANK">Here's one answer</a>:
 

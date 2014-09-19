@@ -1,3 +1,6 @@
 <div>
-    <img src="/images/{{ include.image }}" alt="{{ include.alt }}" style="position:absolute;left:0;width:100%" onload="(function(img) {img.parentNode.setAttribute('style', 'height:' + img.height + 'px');})(this)">
+    <div style="position:absolute;left:0;width:100%">
+        <img src="/images/{{ include.image }}" alt="{{ include.alt }}" onload="(function(img) {img.parentNode.setAttribute('style', 'height:' + img.height + 'px');})(this)">
+        <p class="image-credit">Photo Credit: <a href="{{ include.link }}">{{ include.credit }}</a></p>        
+    </div>
 </div>
