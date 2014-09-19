@@ -1,6 +1,12 @@
 <div>
-    <div>
-        <img src="/images/{{ include.image }}" alt="{{ include.alt }}" style="position:absolute;left:0;width:100%" onload="(function(img) {img.parentNode.parentNode.setAttribute('style', 'height:' + img.height + 'px');})(this)">
+    <script>
+        function resize(img) {
+            img.parentNode.setAttribute('style', 'height:' + img.height + 'px');
+            img.parentNode.children[2].style.paddingTop = img.height + 'px';
+        }
+    </script>
+    <img src="/images/{{ include.image }}" alt="{{ include.alt }}" style="position:absolute;left:0;width:100%" onload="resize(this)">
+    <div style="position:absolute;left:0;right:0;text-align:right;padding-top:">
         <p class="image-credit">Photo Credit: <a href="{{ include.link }}">{{ include.credit }}</a></p>        
     </div>
 </div>
