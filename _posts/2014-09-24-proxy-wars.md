@@ -5,7 +5,7 @@ modified: 2014-09-24 10:19:53 +0800
 tags: [politics,war,resources,oil,gas,pipelines]
 description: "I was recently made aware of a possible future proxy war between Azerbaijan (Russia backed) and Armenia (US backed). I started investigating this today by following Adam Curry's lead: start by looking at natural resources, in particular oil, gas and the pipelines used to transport them. I'm already turning up all kinds of interesting information."
 image:
-  feature: south-caucasus-pipeline.jpg
+  feature: south-caucasus-pipeline.png
   credit:  Offshore Energy Today
   creditlink: http://www.offshoreenergytoday.com/
 comments: true
@@ -13,8 +13,8 @@ share:    true
 ---
 I was recently made aware of a possible future proxy war between Azerbaijan (Russia backed) and Armenia (US backed). Both countries were part of the Russian Empire, broke away towards the
 end of the Empire, were soon after absorbed again by the Soviet Union and again broke away when the Soviet Union dissolved. On both occasions when they broke away from Russia, they went to
-war with each other over the Nagorno-Karabakh region. This region is part of AZ, borders on AR and has a majority Armenian population. Technically the countries are still at war, although
-not actively over the last two decades or so.
+war with each other over the <a href="http://www.wikiwand.com/en/Nagorno-Karabakh_War" target="_BLANK">Nagorno-Karabakh region</a>. This region is part of AZ, borders on AR and has a majority
+Armenian population. Technically the countries are still at war, although not actively over the last two decades or so.
 
 I started investigating this today by following Adam Curry's lead: start by looking at natural resources, in particular oil, gas and the pipelines used to transport them. I'm already turning
 up all kinds of interesting information. For starters, the major AZ pipeline from the Caspian sea through Georgia and Turkey (South Caucasus Pipeline) is conveniently routed around Armenia.
