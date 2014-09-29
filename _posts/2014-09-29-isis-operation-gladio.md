@@ -3,7 +3,7 @@ layout: post
 title: "ISIS: Funded through operation Gladio?"
 modified: 2014-09-29 10:43:53 +0800
 tags: [politics,history,gladio,isis,pkk,kurds,grey wolves,azerbaijan,armenia]
-description: ""
+description: "This got me thinking about the checkered history with Germany (which has a large Turkish/Kurdish population) and the Kurdish Workers Party (better known as PKK) vs the Grey Wolves."
 image:
   feature: gladio.jpg
   credit:  Unknown
