@@ -23,7 +23,7 @@ article</a> from six years ago:
 > "Germany has declared war on the PKK. We can fight back. Every Kurd is a potential suicide bomber." These combative words were spoken by Abdullah Öcalan, head of the Kurdish Workers Party
 > (PKK) back in 1996, three years after the group had been banned in Germany.
 
-**PKK and Peshmerga**
+## PKK and Peshmerga
 What lead me to the PKK in the first place was the fact that <a href="https://news.vice.com/article/meet-the-pkk-terrorists-battling-the-islamic-state-on-the-frontlines-of-iraq">hundreds of
 PKK fighters are now active in Iraq</a>, fighting alongside the Peshmerga (Iraqi Kurds). And they're apparently making a difference:
 
@@ -33,7 +33,7 @@ PKK fighters are now active in Iraq</a>, fighting alongside the Peshmerga (Iraqi
 > "Afterwards, the peshmerga forces came with heavy weapons and they hit ISIS with Katyusha [Russian-made multiple rocket launchers]. When we captured the frontlines, there was only PKK."
 > The guerillas were responsible for all eight Islamic State deaths, he added.
 
-**Follow the rabbit**
+## Follow the rabbit
 As I mentioned earlier, the PKK lead me to the Grey Wolves, a Turkish ultra-nationalist and neo-fascist youth party. During the 1980 military coup, they had as many as 200,000 registered
 members and were responsible for a string of assassinations against left-wing intellectuals. The PKK, being a left-wing separatist group with communist roots, quickly became a natural
 enemy. The Grey Wolves were used by Turkish intelligence to assassinate PKK leaders.
