@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ISIS: Funded through operation Gladio?"
+title: "ISIS: Funded by operation Gladio?"
 modified: 2014-09-29 10:43:53 +0800
 tags: [politics,history,gladio,isis,pkk,kurds,grey wolves,azerbaijan,armenia]
 description: "This got me thinking about the checkered history with Germany (which has a large Turkish/Kurdish population) and the Kurdish Workers Party (better known as PKK) vs the Grey Wolves."
@@ -11,8 +11,7 @@ image:
 comments: true
 share:    true
 ---
-Last night I came across an article in the Dutch press (<a href="http://www.foxnews.com/world/2014/09/28/german-army-starts-training-32-kurdish-peshmerga-fighters-at-army-school-in/" target="_BLANK">
-English version</a>) about how a group of 32 Kurdish Peshmerga fighters are currently receiving advanced weapons training in Germany, to learn to use the weaponry that Germany is selling
+Last night I came across an article in the Dutch press (<a href="http://www.foxnews.com/world/2014/09/28/german-army-starts-training-32-kurdish-peshmerga-fighters-at-army-school-in/" target="_BLANK">English version</a>) about how a group of 32 Kurdish Peshmerga fighters are currently receiving advanced weapons training in Germany, to learn to use the weaponry that Germany is selling
 to them.
 
 This got me thinking about the checkered history with Germany (which has a large Turkish/Kurdish population) and the Kurdish Workers Party (better known as PKK) vs the Grey Wolves. Even
