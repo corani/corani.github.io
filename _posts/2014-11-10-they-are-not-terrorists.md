@@ -39,8 +39,8 @@ cowards.
 These are exactly the words and actions of Russia during the first Chechnya independence war, where mighty Russia got their ass handed to them. All of these "actions" are direct and effective recruiting tools. Who wouldn't
 want to fight a bunch of godless cowards?
 
-As I've mentioned previously, there are two kinds of Jihad that matter in this discussion: defensive and offensive. Bin Laden's brilliance was his ability to focus much of the Muslim world on America's actions in the Middle
-East, and cast those as an attack on Islam, requiring a defensive Jihad in response.
+As I've mentioned previously, there are <a href="/on-jihad/" target="_BLANK">two kinds of Jihad</a> that matter in this discussion: defensive and offensive. Bin Laden's brilliance was his ability to focus much of the Muslim
+world on America's actions in the Middle East, and cast those as an attack on Islam, requiring a defensive Jihad in response.
 
 The brilliance is this: joining the defensive Jihad is a personal choice between you and your God, not something mandated by an authority. If you believe that Bin Laden's portrayal is accurate and truthful,  it is your
 personal duty to support the Jihad in whatever way you can, be that by spreading the message, monetarily or by joining the fight.
