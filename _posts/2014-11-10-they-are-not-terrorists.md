@@ -3,7 +3,7 @@ layout: post
 title: "They're not terrorists"
 modified: 2014-11-10 16:57:53 +0800
 tags: [politics,chechnya,afghanistan,isis,taliban,al qaeda]
-description: "If America wants to stand any chance of surviving the Middle-East, they need to stop using their petty "terrorist" label in favor of "insurgent". But I expect them to be too arrogant to learn from the mistakes Russia made in both Afghanistan and Chechnya."
+description: "If America wants to stand any chance of surviving the Middle-East, they need to stop using their petty 'terrorist' label in favor of 'insurgent'. But I expect them to be too arrogant to learn from the mistakes Russia made in both Afghanistan and Chechnya."
 image:
   feature: chechen-mujahideen.jpg
   credit:  Unknown
