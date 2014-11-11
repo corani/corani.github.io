@@ -12,7 +12,7 @@ comments: true
 share:    true
 ---
 Via the <a href="http://www.noagendashow.com/" target="_BLANK">No Agenda Show</a> I came across this highly recommended rant:
-(For those in China, I put up a <a href="http://v.youku.com/v_show/id_XNzc3NzIzMjky.html" target="_BLANK">mirror on Youku</a>)
+(For those in China, I put up a <a href="http://v.youku.com/v_show/id_XODIzNzI3MTM2.html" target="_BLANK">mirror on Youku</a>)
 
 <iframe width="640" height="360" src="//www.youtube.com/embed/nUXmff5R_bI" frameborder="0" allowfullscreen></iframe>
 
