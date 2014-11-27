@@ -62,3 +62,5 @@ public class Fibo extends Generator<Integer> {
 This implements an infinite Generator for <a href="http://www.wikiwand.com/en/Fibonacci_number" target="_BLANK">Fibonacci numbers</a> (Each number is the sum of the preceding two numbers, e.i. 1, 1, 2, 3, 5, 8, 13, 21, ...)
 The concrete Generator will do its work in a separate thread, that will be blocked after each call to "yield". When the user consumes a value, the Generator is unblocked and the next value is yielded. As you can see,
 there is unnecessary boilerplate code and the algorithm is clear to read.
+
+Get the code on <a href="https://github.com/corani/JavaGen" target="_BLANK">GitHub</a>.
