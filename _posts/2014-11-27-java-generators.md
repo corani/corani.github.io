@@ -53,7 +53,7 @@ public class Fibo extends Generator<Integer> {
 		yield(c);
 		while (true) {
 			yield(c);
-			a=b; b=c;
+			a=b; b=c; c=a+b;
 		}
 	}
 }
