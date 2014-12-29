@@ -13,10 +13,9 @@ share:    true
 ---
 Here's a write-up of the setup I've been using for 1TB of data for 5 $/mo:
 
-<ol>
-<li>Get a <a href="http://www.digitalocean.com/?refcode=dcdcc49d2169" target="_BLANK">Digital Ocean account</a>. (If you use my referral link, you'll get 10 $ free credit, enough for two months!)</li>
-<li>Create a Droplet using the smallest VPS and the default Ubuntu install (I'm using Amsterdam data center), this will take a minute.</li>
-<li>Connect to your server using the web-console, or an SSH client. Run:
+* Get a <a href="http://www.digitalocean.com/?refcode=dcdcc49d2169" target="_BLANK">Digital Ocean account</a>. (If you use my referral link, you'll get 10 $ free credit, enough for two months!)
+* Create a Droplet using the smallest VPS and the default Ubuntu install (I'm using Amsterdam data center), this will take a minute.
+* Connect to your server using the web-console, or an SSH client. Run:
 
   {% highlight bash %}
     sudo apt-get update
@@ -24,9 +23,8 @@ Here's a write-up of the setup I've been using for 1TB of data for 5 $/mo:
     sudo pip install shadowsocks
   {% endhighlight %}
 
-</li>
-<li>Run "ifconfig eth0" and note the IP address.</li>
-<li>Create "/etc/shadowsocks.json" with the following contents:
+* Run "ifconfig eth0" and note the IP address.
+* Create "/etc/shadowsocks.json" with the following contents:
 
   {% highlight json %}
   {
@@ -42,8 +40,7 @@ Here's a write-up of the setup I've been using for 1TB of data for 5 $/mo:
   }
   {% endhighlight %}
 
-</li>
-<li>Create "/etc/supervisor/conf.d/shadowsocks.conf" with the following contents:
+* Create "/etc/supervisor/conf.d/shadowsocks.conf" with the following contents:
 
   {% highlight ini %}
     [program:shadowsocks] 
@@ -52,23 +49,19 @@ Here's a write-up of the setup I've been using for 1TB of data for 5 $/mo:
     user=nobody
   {% endhighlight %}
 
-</li>
-<li>Edit "/etc/default/supervisor" with the following contents:
+* Edit "/etc/default/supervisor" with the following contents:
 
   {% highlight bash %}
     DAEMON_OPTS="ulimit -n 51200"
   {% endhighlight %}
 
-</li>
-<li>Run:
+* Run:
 
   {% highlight bash %}
     sudo service supervisor start
     sudo supervisorctl reload
   {% endhighlight %}
 
-</li>
-</ol>
 
 Install the <a href="https://play.google.com/store/apps/details?id=com.github.shadowsocks" target="_BLANK">ShadowSocks client for Android</a>,
 or <a href="http://shadowsocks.org/en/download/clients.html" target="_BLANK">check here for other platforms</a>.
