@@ -25,7 +25,7 @@ sudo pip install shadowsocks
 {% endhighlight %}
 
 * Run "ifconfig eth0" and note the IP address.
-* Create "/etc/shadowsocks.json" with the following contents:
+* Create "/etc/shadowsocks.json" with the following contents, and "chmod 600" it:
 
 {% highlight json %}
 {
