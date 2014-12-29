@@ -23,6 +23,7 @@ Here's a write-up of the setup I've been using for 1TB of data for 5 $/mo:
     sudo apt-get install python-pip python-m2crypto supervisor
     sudo pip install shadowsocks
   {% endhighlight %}
+
 </li>
 <li>Run "ifconfig eth0" and note the IP address.</li>
 <li>Create "/etc/shadowsocks.json" with the following contents:
@@ -40,6 +41,7 @@ Here's a write-up of the setup I've been using for 1TB of data for 5 $/mo:
     "workers": 1
   }
   {% endhighlight %}
+
 </li>
 <li>Create "/etc/supervisor/conf.d/shadowsocks.conf" with the following contents:
 
@@ -49,12 +51,14 @@ Here's a write-up of the setup I've been using for 1TB of data for 5 $/mo:
     autorestart=true
     user=nobody
   {% endhighlight %}
+
 </li>
 <li>Edit "/etc/default/supervisor" with the following contents:
 
   {% highlight bash %}
     DAEMON_OPTS="ulimit -n 51200"
   {% endhighlight %}
+
 </li>
 <li>Run:
 
@@ -62,6 +66,7 @@ Here's a write-up of the setup I've been using for 1TB of data for 5 $/mo:
     sudo service supervisor start
     sudo supervisorctl reload
   {% endhighlight %}
+
 </li>
 </ol>
 
