@@ -1,0 +1,83 @@
+==================================================================
+https://keybase.io/corani
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://blog.loadingdata.nl
+  * I am corani (https://keybase.io/corani) on keybase.
+  * I have a public key with fingerprint D8D0 9FBE F075 F709 7B52  2F73 326C 2123 EF2D 5D91
+
+To claim this, I am signing this object:
+
+{
+    "body": {
+        "client": {
+            "name": "keybase.io node.js client",
+            "version": "0.7.3"
+        },
+        "key": {
+            "fingerprint": "d8d09fbef075f7097b522f73326c2123ef2d5d91",
+            "host": "keybase.io",
+            "key_id": "326C2123EF2D5D91",
+            "uid": "be8183a5e8acbe8a5b2897073e99f100",
+            "username": "corani"
+        },
+        "merkle_root": {
+            "ctime": 1421837894,
+            "hash": "1ac4cf5596d093f02bc9c3df02dfb9f5cab314e386d3224e559d63a19cd01dc722307b846bc8cf86a8bf74a4b7286cfafd5ab7d905b24900044a3bc9d60769e6",
+            "seqno": 137222
+        },
+        "service": {
+            "hostname": "blog.loadingdata.nl",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1421837960,
+    "expire_in": 157680000,
+    "prev": "248b57ed9d62cfc40829e7a43e6226d9bdaabff5d2e6a55b60259ef603e1a977",
+    "seqno": 4,
+    "tag": "signature"
+}
+
+with the aforementioned key, yielding the PGP signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: GnuPG v2.0.22 (GNU/Linux)
+
+owFVkn9MVWUYx++9CAwspyy3UAo4BLgJd+89v89VJioYUvwhpCkb3t5zznu4By73
+XM69GD8DK6TSiSaBS9pkKwETI5xoolclNIrZHKBIM0dsZRDLDEwThN7DaOV/zznv
+5/k+3+/7vAeeDTBZzKQrOuZeYs5Bc9+YaHrt4p73yghRk0sIexkhuVTk9hmVGxYg
+wk7koxIRepFV1aLcmoysed6oBSaB2IV0r6q5MQWsnJUiKhIM3GhWVHcu0j26amgR
+Mi8DQRGRAjhG4YDAiQxJKhxFkaxE2kgKKaTMyIINSzo1r++pqcS8pkOV8V/MbzT4
+1E1kCpMyzxfNH4iIt/EUZBAPJVxDRiR5gQMchQRBsQFggF6kL0SSNB26VcNtAdLz
+Xciha9p8ZMmnGoCNJrEaxws09gO9TtxigxItKQwjsDgJpQBSlASJknEhK6KgMBIU
+KRuNKJ6VKZKkESZlloI2QZKBTZY4kqQAJ/I0K0q8pPAs5EWFoyEtciTPSgpUZAaK
+nCwA7JwWAAA0DSk8Q2YBxwqIxQG8qNCtYXMUFiMrjG99lyohw7dxaQvZRJeWa3Vp
+UMYLkKEPWt0u3OvRNZ8maS4MOH0+j93I7ivx4IYO4k0kOha0HKLqNhr/v1obRp++
+F4EFCQQq9qg6cqgGwXAsjy0DYw7ahWeQNC8yHJKxfVJSJBrwpIA4SFOIJUlWFkQZ
+QlFRGJlELGQYkQUkIyCFBRSyQYHj/kuLN+CDuVjSq+a6oa9IR0TF+5aIRSazxRQU
+aDHerik0ZOm/D7ppfKnpUGP6zdW+2idHt0V9sX19+d+LH0x1X1nT+uBxXOahW129
+enF5ReqcKyFWWtNv7fyzPHO6PmNd+JrT/kzzy8odS814X3TwhZnp6vCZZf2NLfu/
+vLQo0nT1h93jW/qzXu34aNW+HW9VlQ31/mhNz7x7qW32zF/eR2cLUwKGH1o+/Ynf
+nHQ5pjvUOVoIAptf3Eb0mIDmsD/0F+y7dLUvMGxYP2hLv14VlFVwMHso61FH3Mcx
+ESnVIX23g0rtGeDG7soL3M4RR+2BHsfjlvzjo7fffYmdSN5wbF0O+JyNOpsEV46k
+x3TF95y/5z5cUhK+eCJ0b1ay3JLB1tUv/yp1YOLE6oabNd+eODIy/QGfeGt8ZvuY
+Z8DsGWro3frbUOTRu+tjjp86OdEZkBa84lzbktypd9qLvt+0rHGq6H7c7EXnxif2
+yPNCYJ0ZzL3yAljx3aRlZ0N290zI1pHlYUljaUem2NTDNw7p2XUnQ55rZU+1Fg+/
+Xrr514zGr33x66LO5OzVg64MXk4qzjvnia+/1tk+sDLf3DSY8HbASqqyeoP3fvse
+S0WbnyiIGM4bbW2a/OaNJRL3TG5zZcMQ3DJWE9uTOH6/s9oyt/Zxf1/VqtmgUd3/
+4erY0cqzzUStdu30ju7nm4TrtwaD92tb/whKO3ZACkuO99YO+EPyZj77+RP/74O/
+XIvuUu9Mlu7ds9b5Dw==
+=obko
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/corani
+
+==================================================================
+
